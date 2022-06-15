@@ -9,7 +9,9 @@ color:purple
 }
 
 /* Make the <h1> element #9b59b6*/
-
+.h1-bg-color{
+    color: #9b59b6;
+}
 
 /* Make all <h2> elements orange */
 
