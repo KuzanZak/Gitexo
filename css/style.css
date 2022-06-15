@@ -14,7 +14,9 @@ color:purple
 }
 
 /* Make all <h2> elements orange */
-
+.h2-bg-color{
+    color: orange; 
+}
 
 /* Make all <li> elements blue(pick your own hexadecimal blue)*/ 
 
